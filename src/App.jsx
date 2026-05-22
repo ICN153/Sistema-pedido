@@ -5,7 +5,7 @@ import './index.css'
 export function App() {
   return (
     <div className='container'>
-      <OrderCard />
+      <OrderCard/>
     </div>
   )
 }
