@@ -1,4 +1,3 @@
-
 import "./Button.css";
 
 export function Button({ onClick, children }) {
